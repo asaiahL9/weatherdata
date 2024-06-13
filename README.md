@@ -1,6 +1,6 @@
-## Assignment 7
+## Historical Weather Data Lookup
 
-### Use BeautifulSoup and PySimpleGUI to scrape data from the web and display it
+### This desktop application allows a user to view historical weather data from many locations around the world. It uses a selenium headless browser to scrape dynamic data loaded from a website and delivers it back to the application.
 
 #### 1. Enter date with YYYY-MM-DD format or select from built in calendar.
 
